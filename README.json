@@ -1,18 +1,7 @@
 {
-  "items": [
-    {
-      "description": "By conference - 按会议分类：ICML / NeurIPS / ICLR / AAAI / IJCAI / ACL / CVPR / ICCV\nBy journal - 按期刊分类：AI / TPAMI / IJCV / JMLR\nBy degree - 按学位论文分类：Master / PhD",
-      "items": [],
-      "title": "By Origin - 按出处分类"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Tutorials - 教程"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T09:31:43.069Z",
+    "last_updated": "2026-08-19T09:32:47.485Z",
     "original_repository": "SupeRuier/awesome-active-learning",
     "original_repository_sha": "9f4074b20f514be50acdf989aa2cc8b7ae883d39",
     "enhanced_repository": "enhansome/enhansome-active-learning",
