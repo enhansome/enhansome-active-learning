@@ -254,7 +254,7 @@ Basically, there are two types of applications: [**scientific applications**](co
 | [ALiPy](https://github.com/NUAA-AL/ALiPy) ⭐ 906 \| 🐛 17 \| 🌐 Python \| 📅 2025-07-23                                         | Python(scikit-learn)             | NUAA(Shengjun Huang)      | Include MLAL                                     |
 | [pytorch\_active\_learning](https://github.com/rmunro/pytorch_active_learning) ⭐ 994 \| 🐛 5 \| 🌐 Python \| 📅 2022-12-08     | Python(pytorch)                  | Robert Monarch            | Keep updating & include active transfer learning |
 | [DeepAL](https://github.com/ej0cl6/deep-active-learning) ⭐ 850 \| 🐛 0 \| 🌐 Python \| 📅 2022-10-03                           | Python(scikit-learn, pytorch)    | Kuan-Hao Huang            | Keep updating & deep neural networks             |
-| [BaaL](https://github.com/ElementAI/baal/) ⭐ 935 \| 🐛 21 \| 🌐 Python \| 📅 2025-12-03                                        | Python(scikit-learn, pytorch)    | ElementAI                 | Keep updating & bayesian active learning         |
+| [BaaL](https://github.com/ElementAI/baal/) ⭐ 935 \| 🐛 20 \| 🌐 Python \| 📅 2025-12-03                                        | Python(scikit-learn, pytorch)    | ElementAI                 | Keep updating & bayesian active learning         |
 | [lrtc](https://github.com/IBM/low-resource-text-classification-framework) ⚠️ Archived                                          | Python(scikit-learn, tensorflow) | IBM                       | Text classification                              |
 | [Small-text](https://github.com/webis-de/small-text) ⭐ 648 \| 🐛 17 \| 🌐 Python \| 📅 2026-05-24                              | Python(scikit-learn, pytorch)    | Christopher Schröder      | Text classification                              |
 | [DeepCore](https://github.com/PatrickZH/DeepCore) ⭐ 259 \| 🐛 12 \| 🌐 Python \| 📅 2023-02-27                                 | Python(scikit-learn, pytorch)    | Guo et al.                | In the coreset selection formulation             |
@@ -282,4 +282,4 @@ Several young researchers who provides valuable insights for AL:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
