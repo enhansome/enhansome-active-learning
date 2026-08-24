@@ -1,7 +1,209 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AL playground",
+          "description": "Python(scikit-learn, keras) Google Abandoned",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 106029625,
+            "language": "Python",
+            "last_commit": "2022-12-05T01:29:18Z",
+            "owner": "google",
+            "repo": "active-learning",
+            "stars": 1162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "modAL",
+          "description": "Python(scikit-learn) Tivadar Danka Keep updating",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 110697473,
+            "language": "Python",
+            "last_commit": "2024-02-26T15:38:11Z",
+            "owner": "modAL-python",
+            "repo": "modAL",
+            "stars": 2361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libact",
+          "description": "Python(scikit-learn) NTU(Hsuan-Tien Lin group)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 47506240,
+            "language": "Python",
+            "last_commit": "2026-08-21T12:49:29Z",
+            "owner": "ntucllab",
+            "repo": "libact",
+            "stars": 792
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ALiPy",
+          "description": "Python(scikit-learn) NUAA(Shengjun Huang) Include MLAL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 149413428,
+            "language": "Python",
+            "last_commit": "2025-07-23T14:21:35Z",
+            "owner": "NUAA-AL",
+            "repo": "ALiPy",
+            "stars": 906
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytorch_active_learning",
+          "description": "Python(pytorch) Robert Monarch Keep updating & include active transfer learning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 188705941,
+            "language": "Python",
+            "last_commit": "2022-12-08T11:05:25Z",
+            "owner": "rmunro",
+            "repo": "pytorch_active_learning",
+            "stars": 994
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepAL",
+          "description": "Python(scikit-learn, pytorch) Kuan-Hao Huang Keep updating & deep neural networks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 131947745,
+            "language": "Python",
+            "last_commit": "2022-10-03T20:23:38Z",
+            "owner": "ej0cl6",
+            "repo": "deep-active-learning",
+            "stars": 850
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BaaL",
+          "description": "Python(scikit-learn, pytorch) ElementAI Keep updating & bayesian active learning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 211948492,
+            "language": "Python",
+            "last_commit": "2025-12-03T21:18:11Z",
+            "owner": "baal-org",
+            "repo": "baal",
+            "stars": 935
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lrtc",
+          "description": "Python(scikit-learn, tensorflow) IBM Text classification",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 307936232,
+            "language": "Python",
+            "last_commit": "2022-03-09T14:58:47Z",
+            "owner": "IBM",
+            "repo": "low-resource-text-classification-framework",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Small-text",
+          "description": "Python(scikit-learn, pytorch) Christopher Schröder Text classification",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 370275343,
+            "language": "Python",
+            "last_commit": "2026-05-24T23:18:02Z",
+            "owner": "webis-de",
+            "repo": "small-text",
+            "stars": 647
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepCore",
+          "description": "Python(scikit-learn, pytorch) Guo et al. In the coreset selection formulation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 418090129,
+            "language": "Python",
+            "last_commit": "2023-02-27T00:57:28Z",
+            "owner": "PatrickZH",
+            "repo": "DeepCore",
+            "stars": 259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyRelationAL: A Library for Active Learning Research and Development",
+          "description": "Python(scikit-learn, pytorch) Scherer et al.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 457381093,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-01-20T14:21:26Z",
+            "owner": "RelationRx",
+            "repo": "pyrelational",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepAL+",
+          "description": "Python(scikit-learn, pytorch) Zhan An extension for DeepAL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 501078780,
+            "language": "Python",
+            "last_commit": "2024-05-06T20:28:34Z",
+            "owner": "SineZHAN",
+            "repo": "deepALplus",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ALaaS",
+          "description": "Python(scikit-learn) A*STAR & NTU Use the stage-level parallellism for AL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 492430884,
+            "language": "Python",
+            "last_commit": "2024-07-08T18:05:34Z",
+            "owner": "HuaizhengZhang",
+            "repo": "Active-Learning-as-a-Service",
+            "stars": 221
+          }
+        }
+      ],
+      "title": "7. Codes / Libraries - 代码与工具包"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T09:46:31.299Z",
+    "last_updated": "2026-08-24T14:15:52.289Z",
     "original_repository": "SupeRuier/awesome-active-learning",
     "original_repository_id": 230401761,
     "original_repository_sha": "9f4074b20f514be50acdf989aa2cc8b7ae883d39",
