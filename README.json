@@ -15,7 +15,7 @@
             "last_commit": "2022-12-05T01:29:18Z",
             "owner": "google",
             "repo": "active-learning",
-            "stars": 1162
+            "stars": 1163
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-02-26T15:38:11Z",
             "owner": "modAL-python",
             "repo": "modAL",
-            "stars": 2361
+            "stars": 2363
           }
         },
         {
@@ -203,9 +203,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:39:54.905Z",
-    "original_repository": "SupeRuier/awesome-active-learning",
-    "original_repository_id": 230401761,
+    "last_updated": "2026-08-27T11:18:10.769Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 230401761,
+      "language": null,
+      "last_commit": "2026-03-16T06:48:56Z",
+      "owner": "SupeRuier",
+      "repo": "awesome-active-learning",
+      "stars": 1001
+    },
     "original_repository_sha": "9f4074b20f514be50acdf989aa2cc8b7ae883d39",
     "enhanced_repository": "enhansome/enhansome-active-learning",
     "enhanced_repository_description": null,
