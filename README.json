@@ -16,7 +16,8 @@
             "owner": "google",
             "repo": "active-learning",
             "stars": 1163
-          }
+          },
+          "first_seen": "2026-08-28T20:42:40.944Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2024-02-26T15:38:11Z",
             "owner": "modAL-python",
             "repo": "modAL",
-            "stars": 2364
-          }
+            "stars": 2363
+          },
+          "first_seen": "2026-08-28T20:42:40.944Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "ntucllab",
             "repo": "libact",
             "stars": 792
-          }
+          },
+          "first_seen": "2026-08-28T20:42:40.944Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "NUAA-AL",
             "repo": "ALiPy",
             "stars": 906
-          }
+          },
+          "first_seen": "2026-08-28T20:42:40.944Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "rmunro",
             "repo": "pytorch_active_learning",
             "stars": 994
-          }
+          },
+          "first_seen": "2026-08-28T20:42:40.944Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "ej0cl6",
             "repo": "deep-active-learning",
             "stars": 850
-          }
+          },
+          "first_seen": "2026-08-28T20:42:40.944Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "baal-org",
             "repo": "baal",
             "stars": 934
-          }
+          },
+          "first_seen": "2026-08-28T20:42:40.944Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "IBM",
             "repo": "low-resource-text-classification-framework",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T20:42:40.944Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "webis-de",
             "repo": "small-text",
             "stars": 646
-          }
+          },
+          "first_seen": "2026-08-28T20:42:40.944Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "PatrickZH",
             "repo": "DeepCore",
             "stars": 259
-          }
+          },
+          "first_seen": "2026-08-28T20:42:40.944Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "RelationRx",
             "repo": "pyrelational",
             "stars": 157
-          }
+          },
+          "first_seen": "2026-08-28T20:42:40.944Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "SineZHAN",
             "repo": "deepALplus",
             "stars": 182
-          }
+          },
+          "first_seen": "2026-08-28T20:42:40.944Z"
         },
         {
           "node_type": "item",
@@ -196,14 +208,15 @@
             "owner": "HuaizhengZhang",
             "repo": "Active-Learning-as-a-Service",
             "stars": 221
-          }
+          },
+          "first_seen": "2026-08-28T20:42:40.944Z"
         }
       ],
       "title": "7. Codes / Libraries - 代码与工具包"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:26:27.894Z",
+    "last_updated": "2026-08-28T20:42:40.944Z",
     "original_repository_info": {
       "archived": false,
       "id": 230401761,
@@ -211,7 +224,7 @@
       "last_commit": "2026-03-16T06:48:56Z",
       "owner": "SupeRuier",
       "repo": "awesome-active-learning",
-      "stars": 1001
+      "stars": 1000
     },
     "original_repository_sha": "9f4074b20f514be50acdf989aa2cc8b7ae883d39",
     "enhanced_repository": "enhansome/enhansome-active-learning",

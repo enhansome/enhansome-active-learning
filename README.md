@@ -62,7 +62,7 @@
 
 **Contributing - 加入本项目**
 
-If you find any valuable researches, please feel free to [pull request](https://github.com/SupeRuier/awesome-active-learning/pulls) ⭐ 1,001 | 🐛 1 | 📅 2026-03-16 or contact [ruihe.cs@gmail.com](ruihe.cs@gmail.com) to update this repository.
+If you find any valuable researches, please feel free to [pull request](https://github.com/SupeRuier/awesome-active-learning/pulls) ⭐ 1,000 | 🐛 1 | 📅 2026-03-16 or contact [ruihe.cs@gmail.com](ruihe.cs@gmail.com) to update this repository.
 Comments and suggestions are also very welcome!
 
 <!-- **Cite us - 引用我们:**
@@ -249,7 +249,7 @@ Basically, there are two types of applications: [**scientific applications**](co
 | Name                                                                                                                           | Languages                        | Author                    | Notes                                            |
 | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------- | ------------------------- | ------------------------------------------------ |
 | [AL playground](https://github.com/google/active-learning) ⚠️ Archived                                                         | Python(scikit-learn, keras)      | Google                    | Abandoned                                        |
-| [modAL](https://github.com/modAL-python/modAL) ⭐ 2,364 \| 🐛 108 \| 🌐 Python \| 📅 2024-02-26                                 | Python(scikit-learn)             | Tivadar Danka             | Keep updating                                    |
+| [modAL](https://github.com/modAL-python/modAL) ⭐ 2,363 \| 🐛 108 \| 🌐 Python \| 📅 2024-02-26                                 | Python(scikit-learn)             | Tivadar Danka             | Keep updating                                    |
 | [libact](https://github.com/ntucllab/libact) ⭐ 792 \| 🐛 44 \| 🌐 Python \| 📅 2026-08-21                                      | Python(scikit-learn)             | NTU(Hsuan-Tien Lin group) |                                                  |
 | [ALiPy](https://github.com/NUAA-AL/ALiPy) ⭐ 906 \| 🐛 17 \| 🌐 Python \| 📅 2025-07-23                                         | Python(scikit-learn)             | NUAA(Shengjun Huang)      | Include MLAL                                     |
 | [pytorch\_active\_learning](https://github.com/rmunro/pytorch_active_learning) ⭐ 994 \| 🐛 5 \| 🌐 Python \| 📅 2022-12-08     | Python(pytorch)                  | Robert Monarch            | Keep updating & include active transfer learning |
@@ -282,4 +282,4 @@ Several young researchers who provides valuable insights for AL:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
