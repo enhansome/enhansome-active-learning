@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 106029625,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-12-05T01:29:18Z",
+            "open_issues": 2,
             "owner": "google",
             "repo": "active-learning",
-            "stars": 1163
+            "stars": 1163,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:42:40.944Z"
         },
@@ -26,12 +31,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modular active learning framework for Python",
+            "homepage": "https://modAL-python.github.io/",
             "id": 110697473,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-26T15:38:11Z",
+            "open_issues": 108,
             "owner": "modAL-python",
             "repo": "modAL",
-            "stars": 2363
+            "stars": 2363,
+            "topics": [
+              "active-learning",
+              "active-learning-module",
+              "bayesian-optimization",
+              "machine-learning",
+              "machine-learning-algorithms",
+              "machine-learning-api",
+              "machine-learning-library",
+              "python",
+              "scikit-learn"
+            ]
           },
           "first_seen": "2026-08-28T20:42:40.944Z"
         },
@@ -42,12 +62,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pool-based active learning in Python",
+            "homepage": "http://libact.readthedocs.org/",
             "id": 47506240,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-21T12:49:29Z",
+            "open_issues": 44,
             "owner": "ntucllab",
             "repo": "libact",
-            "stars": 792
+            "stars": 792,
+            "topics": [
+              "active-learning",
+              "machine-learning",
+              "machine-learning-library",
+              "uncertainty-sampling"
+            ]
           },
           "first_seen": "2026-08-28T20:42:40.944Z"
         },
@@ -58,12 +88,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ALiPy: Active Learning in Python is an active learning python toolbox, which allows users to conveniently evaluate, compare and analyze the performance of active learning methods.",
+            "homepage": "http://parnec.nuaa.edu.cn/huangsj/alipy/",
             "id": 149413428,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-07-23T14:21:35Z",
+            "open_issues": 17,
             "owner": "NUAA-AL",
             "repo": "ALiPy",
-            "stars": 906
+            "stars": 906,
+            "topics": [
+              "active-learning",
+              "machine-learning",
+              "python",
+              "toolbox"
+            ]
           },
           "first_seen": "2026-08-28T20:42:40.944Z"
         },
@@ -74,12 +114,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch Library for Active Learning to accompany Human-in-the-Loop Machine Learning book",
+            "homepage": null,
             "id": 188705941,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-08T11:05:25Z",
+            "open_issues": 5,
             "owner": "rmunro",
             "repo": "pytorch_active_learning",
-            "stars": 994
+            "stars": 994,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:42:40.944Z"
         },
@@ -90,12 +135,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep Active Learning",
+            "homepage": null,
             "id": 131947745,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-10-03T20:23:38Z",
+            "open_issues": 0,
             "owner": "ej0cl6",
             "repo": "deep-active-learning",
-            "stars": 850
+            "stars": 850,
+            "topics": [
+              "active-learning",
+              "deep-active-learning"
+            ]
           },
           "first_seen": "2026-08-28T20:42:40.944Z"
         },
@@ -106,12 +159,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bayesian active learning library for research and industrial usecases.",
+            "homepage": "https://baal.readthedocs.io",
             "id": 211948492,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-03T21:18:11Z",
+            "open_issues": 20,
             "owner": "baal-org",
             "repo": "baal",
-            "stars": 934
+            "stars": 934,
+            "topics": [
+              "active-learning",
+              "ai",
+              "bayesian-active-learning",
+              "deep-learning",
+              "machine-learning",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T20:42:40.944Z"
         },
@@ -122,12 +188,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Research framework for low resource text classification that allows the user to experiment with classification models and active learning strategies on a large number of sentence classification datasets, and to simulate real-world scenarios. The framework is easily expandable to new classification models, active learning strategies and datasets.",
+            "homepage": null,
             "id": 307936232,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-03-09T14:58:47Z",
+            "open_issues": 1,
             "owner": "IBM",
             "repo": "low-resource-text-classification-framework",
-            "stars": 101
+            "stars": 101,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:42:40.944Z"
         },
@@ -138,12 +209,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Active Learning for Text Classification in Python",
+            "homepage": "https://small-text.readthedocs.io/",
             "id": 370275343,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-24T23:18:02Z",
+            "open_issues": 17,
             "owner": "webis-de",
             "repo": "small-text",
-            "stars": 646
+            "stars": 646,
+            "topics": [
+              "active-learning",
+              "deep-learning",
+              "language-models",
+              "llms",
+              "looking-for-contributors",
+              "machine-learning",
+              "natural-language-processing",
+              "nlp",
+              "python",
+              "pytorch",
+              "small-language-models",
+              "text-classification",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-28T20:42:40.944Z"
         },
@@ -154,12 +244,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for coreset selection methods",
+            "homepage": null,
             "id": 418090129,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-02-27T00:57:28Z",
+            "open_issues": 12,
             "owner": "PatrickZH",
             "repo": "DeepCore",
-            "stars": 259
+            "stars": 259,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:42:40.944Z"
         },
@@ -170,12 +265,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "pyrelational is a python active learning library for rapidly implementing active learning pipelines from data management, model development (and Bayesian approximation), to creating novel active learning strategies.",
+            "homepage": "https://pyrelational.readthedocs.io",
             "id": 457381093,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-20T14:21:26Z",
+            "open_issues": 8,
             "owner": "RelationRx",
             "repo": "pyrelational",
-            "stars": 157
+            "stars": 157,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:42:40.944Z"
         },
@@ -186,12 +286,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a toolbox for Deep Active Learning, an extension from previous work https://github.com/ej0cl6/deep-active-learning (DeepAL toolbox).",
+            "homepage": null,
             "id": 501078780,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-06T20:28:34Z",
+            "open_issues": 2,
             "owner": "SineZHAN",
             "repo": "deepALplus",
-            "stars": 182
+            "stars": 182,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:42:40.944Z"
         },
@@ -202,12 +307,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A scalable & efficient active learning/data selection system for everyone.",
+            "homepage": null,
             "id": 492430884,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-08T18:05:34Z",
+            "open_issues": 10,
             "owner": "HuaizhengZhang",
             "repo": "Active-Learning-as-a-Service",
-            "stars": 221
+            "stars": 221,
+            "topics": [
+              "active-learning",
+              "automl",
+              "deep-learning",
+              "machine-learning",
+              "mlops",
+              "mlsys",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T20:42:40.944Z"
         }
@@ -216,15 +334,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:42:40.944Z",
+    "last_updated": "2026-08-29T04:34:13.395Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Everything you need about Active Learning (AL).",
+      "homepage": null,
       "id": 230401761,
       "language": null,
+      "license": null,
       "last_commit": "2026-03-16T06:48:56Z",
+      "open_issues": 1,
       "owner": "SupeRuier",
       "repo": "awesome-active-learning",
-      "stars": 1000
+      "stars": 1000,
+      "topics": [
+        "active-learning",
+        "awesome",
+        "awesome-list",
+        "crowdsourcing",
+        "deep-learning",
+        "human-in-the-loop",
+        "machine-learning"
+      ]
     },
     "original_repository_sha": "9f4074b20f514be50acdf989aa2cc8b7ae883d39",
     "enhanced_repository": "enhansome/enhansome-active-learning",
