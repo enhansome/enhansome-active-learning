@@ -71,7 +71,7 @@
             "open_issues": 44,
             "owner": "ntucllab",
             "repo": "libact",
-            "stars": 792,
+            "stars": 791,
             "topics": [
               "active-learning",
               "machine-learning",
@@ -97,7 +97,7 @@
             "open_issues": 17,
             "owner": "NUAA-AL",
             "repo": "ALiPy",
-            "stars": 907,
+            "stars": 905,
             "topics": [
               "active-learning",
               "machine-learning",
@@ -144,7 +144,7 @@
             "open_issues": 0,
             "owner": "ej0cl6",
             "repo": "deep-active-learning",
-            "stars": 850,
+            "stars": 851,
             "topics": [
               "active-learning",
               "deep-active-learning"
@@ -168,7 +168,7 @@
             "open_issues": 20,
             "owner": "baal-org",
             "repo": "baal",
-            "stars": 934,
+            "stars": 933,
             "topics": [
               "active-learning",
               "ai",
@@ -218,7 +218,7 @@
             "open_issues": 17,
             "owner": "webis-de",
             "repo": "small-text",
-            "stars": 646,
+            "stars": 647,
             "topics": [
               "active-learning",
               "deep-learning",
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T12:38:36.250Z",
+    "last_updated": "2026-09-07T14:48:49.781Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything you need about Active Learning (AL).",
@@ -346,7 +346,7 @@
       "open_issues": 1,
       "owner": "SupeRuier",
       "repo": "awesome-active-learning",
-      "stars": 1000,
+      "stars": 1001,
       "topics": [
         "active-learning",
         "awesome",

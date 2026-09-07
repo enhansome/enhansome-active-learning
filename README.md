@@ -62,7 +62,7 @@
 
 **Contributing - 加入本项目**
 
-If you find any valuable researches, please feel free to [pull request](https://github.com/SupeRuier/awesome-active-learning/pulls) ⭐ 1,000 | 🐛 1 | 📅 2026-03-16 or contact [ruihe.cs@gmail.com](ruihe.cs@gmail.com) to update this repository.
+If you find any valuable researches, please feel free to [pull request](https://github.com/SupeRuier/awesome-active-learning/pulls) ⭐ 1,001 | 🐛 1 | 📅 2026-03-16 or contact [ruihe.cs@gmail.com](ruihe.cs@gmail.com) to update this repository.
 Comments and suggestions are also very welcome!
 
 <!-- **Cite us - 引用我们:**
@@ -250,13 +250,13 @@ Basically, there are two types of applications: [**scientific applications**](co
 | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------- | ------------------------- | ------------------------------------------------ |
 | [AL playground](https://github.com/google/active-learning) ⚠️ Archived                                                         | Python(scikit-learn, keras)      | Google                    | Abandoned                                        |
 | [modAL](https://github.com/modAL-python/modAL) ⭐ 2,364 \| 🐛 108 \| 🌐 Python \| 📅 2024-02-26                                 | Python(scikit-learn)             | Tivadar Danka             | Keep updating                                    |
-| [libact](https://github.com/ntucllab/libact) ⭐ 792 \| 🐛 44 \| 🌐 Python \| 📅 2026-08-21                                      | Python(scikit-learn)             | NTU(Hsuan-Tien Lin group) |                                                  |
-| [ALiPy](https://github.com/NUAA-AL/ALiPy) ⭐ 907 \| 🐛 17 \| 🌐 Python \| 📅 2025-07-23                                         | Python(scikit-learn)             | NUAA(Shengjun Huang)      | Include MLAL                                     |
+| [libact](https://github.com/ntucllab/libact) ⭐ 791 \| 🐛 44 \| 🌐 Python \| 📅 2026-08-21                                      | Python(scikit-learn)             | NTU(Hsuan-Tien Lin group) |                                                  |
+| [ALiPy](https://github.com/NUAA-AL/ALiPy) ⭐ 905 \| 🐛 17 \| 🌐 Python \| 📅 2025-07-23                                         | Python(scikit-learn)             | NUAA(Shengjun Huang)      | Include MLAL                                     |
 | [pytorch\_active\_learning](https://github.com/rmunro/pytorch_active_learning) ⭐ 994 \| 🐛 5 \| 🌐 Python \| 📅 2022-12-08     | Python(pytorch)                  | Robert Monarch            | Keep updating & include active transfer learning |
-| [DeepAL](https://github.com/ej0cl6/deep-active-learning) ⭐ 850 \| 🐛 0 \| 🌐 Python \| 📅 2022-10-03                           | Python(scikit-learn, pytorch)    | Kuan-Hao Huang            | Keep updating & deep neural networks             |
-| [BaaL](https://github.com/ElementAI/baal/) ⭐ 934 \| 🐛 20 \| 🌐 Python \| 📅 2025-12-03                                        | Python(scikit-learn, pytorch)    | ElementAI                 | Keep updating & bayesian active learning         |
+| [DeepAL](https://github.com/ej0cl6/deep-active-learning) ⭐ 851 \| 🐛 0 \| 🌐 Python \| 📅 2022-10-03                           | Python(scikit-learn, pytorch)    | Kuan-Hao Huang            | Keep updating & deep neural networks             |
+| [BaaL](https://github.com/ElementAI/baal/) ⭐ 933 \| 🐛 20 \| 🌐 Python \| 📅 2025-12-03                                        | Python(scikit-learn, pytorch)    | ElementAI                 | Keep updating & bayesian active learning         |
 | [lrtc](https://github.com/IBM/low-resource-text-classification-framework) ⚠️ Archived                                          | Python(scikit-learn, tensorflow) | IBM                       | Text classification                              |
-| [Small-text](https://github.com/webis-de/small-text) ⭐ 646 \| 🐛 17 \| 🌐 Python \| 📅 2026-05-24                              | Python(scikit-learn, pytorch)    | Christopher Schröder      | Text classification                              |
+| [Small-text](https://github.com/webis-de/small-text) ⭐ 647 \| 🐛 17 \| 🌐 Python \| 📅 2026-05-24                              | Python(scikit-learn, pytorch)    | Christopher Schröder      | Text classification                              |
 | [DeepCore](https://github.com/PatrickZH/DeepCore) ⭐ 260 \| 🐛 12 \| 🌐 Python \| 📅 2023-02-27                                 | Python(scikit-learn, pytorch)    | Guo et al.                | In the coreset selection formulation             |
 | [PyRelationAL: A Library for Active Learning Research and Development](https://github.com/RelationRx/pyrelational) ⚠️ Archived | Python(scikit-learn, pytorch)    | Scherer et al.            |                                                  |
 | [DeepAL+](https://github.com/SineZHAN/deepALplus/) ⭐ 182 \| 🐛 2 \| 🌐 Python \| 📅 2024-05-06                                 | Python(scikit-learn, pytorch)    | Zhan                      | An extension for DeepAL                          |
@@ -282,4 +282,4 @@ Several young researchers who provides valuable insights for AL:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
