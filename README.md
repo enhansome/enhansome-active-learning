@@ -62,7 +62,7 @@
 
 **Contributing - 加入本项目**
 
-If you find any valuable researches, please feel free to [pull request](https://github.com/SupeRuier/awesome-active-learning/pulls) ⭐ 1,002 | 🐛 1 | 📅 2026-03-16 or contact [ruihe.cs@gmail.com](ruihe.cs@gmail.com) to update this repository.
+If you find any valuable researches, please feel free to [pull request](https://github.com/SupeRuier/awesome-active-learning/pulls) ⭐ 1,003 | 🐛 1 | 📅 2026-03-16 or contact [ruihe.cs@gmail.com](ruihe.cs@gmail.com) to update this repository.
 Comments and suggestions are also very welcome!
 
 <!-- **Cite us - 引用我们:**
@@ -282,4 +282,4 @@ Several young researchers who provides valuable insights for AL:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
