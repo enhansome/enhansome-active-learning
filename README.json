@@ -97,7 +97,7 @@
             "open_issues": 17,
             "owner": "NUAA-AL",
             "repo": "ALiPy",
-            "stars": 904,
+            "stars": 905,
             "topics": [
               "active-learning",
               "machine-learning",
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T14:26:11.301Z",
+    "last_updated": "2026-09-26T13:37:46.880Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything you need about Active Learning (AL).",
@@ -346,7 +346,7 @@
       "open_issues": 1,
       "owner": "SupeRuier",
       "repo": "awesome-active-learning",
-      "stars": 1003,
+      "stars": 1004,
       "topics": [
         "active-learning",
         "awesome",
