@@ -97,7 +97,7 @@
             "open_issues": 17,
             "owner": "NUAA-AL",
             "repo": "ALiPy",
-            "stars": 905,
+            "stars": 904,
             "topics": [
               "active-learning",
               "machine-learning",
@@ -218,7 +218,7 @@
             "open_issues": 16,
             "owner": "webis-de",
             "repo": "small-text",
-            "stars": 646,
+            "stars": 647,
             "topics": [
               "active-learning",
               "deep-learning",
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T14:33:41.649Z",
+    "last_updated": "2026-09-28T17:22:32.489Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything you need about Active Learning (AL).",
