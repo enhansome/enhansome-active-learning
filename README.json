@@ -214,8 +214,8 @@
             "id": 370275343,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-28T21:00:32Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-07T22:09:28Z",
+            "open_issues": 18,
             "owner": "webis-de",
             "repo": "small-text",
             "stars": 647,
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T16:06:22.587Z",
+    "last_updated": "2026-10-08T16:09:09.018Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything you need about Active Learning (AL).",
@@ -346,7 +346,7 @@
       "open_issues": 1,
       "owner": "SupeRuier",
       "repo": "awesome-active-learning",
-      "stars": 1005,
+      "stars": 1006,
       "topics": [
         "active-learning",
         "awesome",
