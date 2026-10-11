@@ -168,7 +168,7 @@
             "open_issues": 20,
             "owner": "baal-org",
             "repo": "baal",
-            "stars": 933,
+            "stars": 934,
             "topics": [
               "active-learning",
               "ai",
@@ -214,7 +214,7 @@
             "id": 370275343,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-07T22:09:28Z",
+            "last_commit": "2026-10-10T20:35:57Z",
             "open_issues": 18,
             "owner": "webis-de",
             "repo": "small-text",
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T15:03:28.729Z",
+    "last_updated": "2026-10-11T15:20:37.831Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything you need about Active Learning (AL).",
