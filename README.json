@@ -214,7 +214,7 @@
             "id": 370275343,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-12T21:44:07Z",
+            "last_commit": "2026-10-19T20:57:09Z",
             "open_issues": 17,
             "owner": "webis-de",
             "repo": "small-text",
@@ -316,7 +316,7 @@
             "open_issues": 10,
             "owner": "HuaizhengZhang",
             "repo": "Active-Learning-as-a-Service",
-            "stars": 221,
+            "stars": 222,
             "topics": [
               "active-learning",
               "automl",
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T16:12:56.799Z",
+    "last_updated": "2026-10-20T14:07:37.599Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything you need about Active Learning (AL).",
