@@ -218,7 +218,7 @@
             "open_issues": 17,
             "owner": "webis-de",
             "repo": "small-text",
-            "stars": 647,
+            "stars": 646,
             "topics": [
               "active-learning",
               "deep-learning",
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T14:07:37.599Z",
+    "last_updated": "2026-10-21T14:21:00.722Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything you need about Active Learning (AL).",
