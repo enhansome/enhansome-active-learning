@@ -40,7 +40,7 @@
             "open_issues": 109,
             "owner": "modAL-python",
             "repo": "modAL",
-            "stars": 2374,
+            "stars": 2375,
             "topics": [
               "active-learning",
               "active-learning-module",
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T14:04:33.329Z",
+    "last_updated": "2026-10-24T13:07:29.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything you need about Active Learning (AL).",
