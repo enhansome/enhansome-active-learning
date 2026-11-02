@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T15:46:49.005Z",
+    "last_updated": "2026-11-02T19:12:31.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything you need about Active Learning (AL).",
@@ -346,7 +346,7 @@
       "open_issues": 1,
       "owner": "SupeRuier",
       "repo": "awesome-active-learning",
-      "stars": 1011,
+      "stars": 1012,
       "topics": [
         "active-learning",
         "awesome",
