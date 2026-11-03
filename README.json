@@ -168,7 +168,7 @@
             "open_issues": 20,
             "owner": "baal-org",
             "repo": "baal",
-            "stars": 937,
+            "stars": 938,
             "topics": [
               "active-learning",
               "ai",
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T19:12:31.357Z",
+    "last_updated": "2026-11-03T16:50:26.368Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything you need about Active Learning (AL).",
