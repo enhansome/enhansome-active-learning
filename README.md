@@ -250,13 +250,13 @@ Basically, there are two types of applications: [**scientific applications**](co
 | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------- | ------------------------- | ------------------------------------------------ |
 | [AL playground](https://github.com/google/active-learning) ⚠️ Archived                                                         | Python(scikit-learn, keras)      | Google                    | Abandoned                                        |
 | [modAL](https://github.com/modAL-python/modAL) ⭐ 2,376 \| 🐛 109 \| 🌐 Python \| 📅 2024-02-26                                 | Python(scikit-learn)             | Tivadar Danka             | Keep updating                                    |
-| [libact](https://github.com/ntucllab/libact) ⭐ 792 \| 🐛 43 \| 🌐 Python \| 📅 2026-10-12                                      | Python(scikit-learn)             | NTU(Hsuan-Tien Lin group) |                                                  |
+| [libact](https://github.com/ntucllab/libact) ⭐ 793 \| 🐛 43 \| 🌐 Python \| 📅 2026-10-12                                      | Python(scikit-learn)             | NTU(Hsuan-Tien Lin group) |                                                  |
 | [ALiPy](https://github.com/NUAA-AL/ALiPy) ⭐ 903 \| 🐛 17 \| 🌐 Python \| 📅 2025-07-23                                         | Python(scikit-learn)             | NUAA(Shengjun Huang)      | Include MLAL                                     |
 | [pytorch\_active\_learning](https://github.com/rmunro/pytorch_active_learning) ⭐ 995 \| 🐛 5 \| 🌐 Python \| 📅 2022-12-08     | Python(pytorch)                  | Robert Monarch            | Keep updating & include active transfer learning |
 | [DeepAL](https://github.com/ej0cl6/deep-active-learning) ⭐ 850 \| 🐛 0 \| 🌐 Python \| 📅 2022-10-03                           | Python(scikit-learn, pytorch)    | Kuan-Hao Huang            | Keep updating & deep neural networks             |
 | [BaaL](https://github.com/ElementAI/baal/) ⭐ 938 \| 🐛 20 \| 🌐 Python \| 📅 2025-12-03                                        | Python(scikit-learn, pytorch)    | ElementAI                 | Keep updating & bayesian active learning         |
 | [lrtc](https://github.com/IBM/low-resource-text-classification-framework) ⚠️ Archived                                          | Python(scikit-learn, tensorflow) | IBM                       | Text classification                              |
-| [Small-text](https://github.com/webis-de/small-text) ⭐ 646 \| 🐛 17 \| 🌐 Python \| 📅 2026-10-19                              | Python(scikit-learn, pytorch)    | Christopher Schröder      | Text classification                              |
+| [Small-text](https://github.com/webis-de/small-text) ⭐ 646 \| 🐛 18 \| 🌐 Python \| 📅 2026-10-19                              | Python(scikit-learn, pytorch)    | Christopher Schröder      | Text classification                              |
 | [DeepCore](https://github.com/PatrickZH/DeepCore) ⭐ 260 \| 🐛 12 \| 🌐 Python \| 📅 2023-02-27                                 | Python(scikit-learn, pytorch)    | Guo et al.                | In the coreset selection formulation             |
 | [PyRelationAL: A Library for Active Learning Research and Development](https://github.com/RelationRx/pyrelational) ⚠️ Archived | Python(scikit-learn, pytorch)    | Scherer et al.            |                                                  |
 | [DeepAL+](https://github.com/SineZHAN/deepALplus/) ⭐ 182 \| 🐛 2 \| 🌐 Python \| 📅 2024-05-06                                 | Python(scikit-learn, pytorch)    | Zhan                      | An extension for DeepAL                          |
@@ -282,4 +282,4 @@ Several young researchers who provides valuable insights for AL:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
