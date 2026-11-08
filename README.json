@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "google",
             "repo": "active-learning",
-            "stars": 1163,
+            "stars": 1162,
             "topics": []
           },
           "first_seen": "2026-08-28T20:42:40.944Z"
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T15:26:13.313Z",
+    "last_updated": "2026-11-08T15:48:10.607Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything you need about Active Learning (AL).",
