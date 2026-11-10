@@ -71,7 +71,7 @@
             "open_issues": 43,
             "owner": "ntucllab",
             "repo": "libact",
-            "stars": 793,
+            "stars": 794,
             "topics": [
               "active-learning",
               "machine-learning",
@@ -97,7 +97,7 @@
             "open_issues": 17,
             "owner": "NUAA-AL",
             "repo": "ALiPy",
-            "stars": 903,
+            "stars": 904,
             "topics": [
               "active-learning",
               "machine-learning",
@@ -168,7 +168,7 @@
             "open_issues": 20,
             "owner": "baal-org",
             "repo": "baal",
-            "stars": 938,
+            "stars": 939,
             "topics": [
               "active-learning",
               "ai",
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T19:30:23.347Z",
+    "last_updated": "2026-11-10T16:48:17.626Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything you need about Active Learning (AL).",
