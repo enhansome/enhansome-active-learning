@@ -214,7 +214,7 @@
             "id": 370275343,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-14T13:31:08Z",
+            "last_commit": "2026-11-15T21:25:46Z",
             "open_issues": 18,
             "owner": "webis-de",
             "repo": "small-text",
@@ -253,7 +253,7 @@
             "open_issues": 12,
             "owner": "PatrickZH",
             "repo": "DeepCore",
-            "stars": 260,
+            "stars": 261,
             "topics": []
           },
           "first_seen": "2026-08-28T20:42:40.944Z"
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T16:05:26.685Z",
+    "last_updated": "2026-11-16T19:17:04.535Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything you need about Active Learning (AL).",
