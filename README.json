@@ -215,7 +215,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-15T21:25:46Z",
-            "open_issues": 18,
+            "open_issues": 17,
             "owner": "webis-de",
             "repo": "small-text",
             "stars": 646,
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T17:48:17.270Z",
+    "last_updated": "2026-11-19T17:58:32.499Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything you need about Active Learning (AL).",
