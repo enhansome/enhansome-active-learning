@@ -40,7 +40,7 @@
             "open_issues": 109,
             "owner": "modAL-python",
             "repo": "modAL",
-            "stars": 2373,
+            "stars": 2374,
             "topics": [
               "active-learning",
               "active-learning-module",
@@ -71,7 +71,7 @@
             "open_issues": 43,
             "owner": "ntucllab",
             "repo": "libact",
-            "stars": 793,
+            "stars": 794,
             "topics": [
               "active-learning",
               "machine-learning",
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T20:53:36.540Z",
+    "last_updated": "2026-11-24T19:56:51.696Z",
     "original_repository_info": {
       "archived": false,
       "description": "Everything you need about Active Learning (AL).",
